@@ -1,4 +1,4 @@
-# GRU-LSTM-FED - Description
+# NASDAQ-100 Prediction using LSTM&GRU
 Python implementation for NASDAQ-100 price prediction using FED's assets.
 
 Project has been done by Roy Mahlab & Tamir Haver.
