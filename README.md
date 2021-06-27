@@ -4,10 +4,6 @@ Python implementation for NASDAQ-100 price prediction using FED's assets.
 Project has been done by Roy Mahlab & Tamir Haver.
 ![image](https://user-images.githubusercontent.com/66019798/123539089-ac170280-d740-11eb-8720-c61655529faa.png)
 
-# Reference
-Based on the work "Predicting Stock Price using LSTM model, PyTorch" by Taron Zakaryan, Paris, Île-de-France, France.
-
-Project site can be found here: https://www.kaggle.com/taronzakaryan/predicting-stock-price-using-lstm-model-pytorch
 
 # Tools 
 
@@ -66,3 +62,7 @@ https://finance.yahoo.com/quote/%5ENDX/history?period1=958608000&period2=1621296
 Fed total assets:
 https://fred.stlouisfed.org/series/WALCL
 
+# References
+Based on the work "Predicting Stock Price using LSTM model, PyTorch" by Taron Zakaryan, Paris, Île-de-France, France.
+
+Project site can be found here: https://www.kaggle.com/taronzakaryan/predicting-stock-price-using-lstm-model-pytorch
