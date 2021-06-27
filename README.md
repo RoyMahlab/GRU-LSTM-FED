@@ -20,7 +20,7 @@ Using OPTUNA for tuning of hyper parameters.
 Compering the results with themselves and with the naive prediction (average weekly gain).
 Presenting the results.
 
-Parameters
+# Parameters
 Batch Size
 Hidden Dim
 N layers
@@ -29,10 +29,6 @@ Num Iters
 Factor
 Look Back
 Patience 
-Folders
-inputs: test images from the publishers' website: http://www.cse.cuhk.edu.hk/leojia/projects/pencilsketch/pencil_drawing.htm
-pencils: pencil textures for generating the Pencil Texture Map
-Reference
-[1] Lu C, Xu L, Jia J. Combining sketch and tone for pencil drawing production[C]//Proceedings of the Symposium on Non-Photorealistic Animation and Rendering. Eurographics Association, 2012: 65-73.
+# Folders
 
-[2] Matlab implementation by "candtcat1992" - https://github.com/candycat1992/PencilDrawing
+# Reference
