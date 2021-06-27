@@ -47,13 +47,7 @@ Number of layers
 
 Learning Rate
 
-Number of Iterations
-
-Factor
-
 Look Back
-
-Patience
 
 # DATA Sources
 Nasdaq 100-values:
