@@ -45,9 +45,10 @@ Look Back.
 Patience.
 
 # DATA Sources
-Data sources:
-Nasdaq 100-values 
-Fed total assets 
-![image](https://user-images.githubusercontent.com/66019798/123539285-981fd080-d741-11eb-9e72-a564b05ba668.png)
+Nasdaq 100-values:
+https://finance.yahoo.com/quote/%5ENDX/history?period1=958608000&period2=1621296000&interval=1wk&filter=history&frequency=1wk&includeAdjustedClose=true
+
+Fed total assets:
+https://fred.stlouisfed.org/series/WALCL
 
 # Reference
