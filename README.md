@@ -16,10 +16,15 @@ each other and examine the influence of the FED's assets on the results.
 We can divide the workflow into few main steps:
 
 Loading the data.
+
 Spliting the data.
+
 Building the LSTM and GRU models.
+
 Using OPTUNA for tuning of hyper parameters.
+
 Compering the results with themselves and with the naive prediction (average weekly gain).
+
 Presenting the results.
 
 # Parameters
