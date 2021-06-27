@@ -21,16 +21,14 @@ Compering the results with themselves and with the naive prediction (average wee
 Presenting the results.
 
 Parameters
-kernel_size = size of the line segement kernel (usually 1/30 of the height/width of the original image)
-stroke_width = thickness of the strokes in the Stroke Map (0, 1, 2)
-num_of_directions = stroke directions in the Stroke Map (used for the kernels)
-smooth_kernel = how the image is smoothed (Gaussian Kernel - "gauss", Median Filter - "median")
-gradient_method = how the gradients for the Stroke Map are calculated (0 - forward gradient, 1 - Sobel)
-rgb = True if the original image has 3 channels, False if grayscale
-w_group = 3 possible weight groups (0, 1, 2) for the histogram distribution, according to the paper (brighter to darker)
-pencil_texture_path = path to the Pencil Texture Map to use (4 options in "./pencils", you can add your own)
-stroke_darkness = 1 is the same, up is darker.
-tone_darkness = as above
+Batch Size
+Hidden Dim
+N layers
+Learning Rate
+Num Iters
+Factor
+Look Back
+Patience 
 Folders
 inputs: test images from the publishers' website: http://www.cse.cuhk.edu.hk/leojia/projects/pencilsketch/pencil_drawing.htm
 pencils: pencil textures for generating the Pencil Texture Map
