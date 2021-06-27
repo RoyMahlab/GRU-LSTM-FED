@@ -33,15 +33,17 @@ Presenting the results
 For our project's models we chose Adam (Adaptive Moment) as our optimizer, stepLRonPlateu as our scheduler and MSE as our loss function.
 
 # Parameters
+The hyper parameters we used OPTUNA to tune are:
+
 Batch Size
 
 Hidden Dim
 
-N layers
+Number of layers
 
 Learning Rate
 
-Num Iters
+Number of Iterations
 
 Factor
 
