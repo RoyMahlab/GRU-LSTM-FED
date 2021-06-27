@@ -29,13 +29,25 @@ Presenting the results.
 
 # Parameters
 Batch Size.
+
 Hidden Dim.
+
 N layers.
+
 Learning Rate.
+
 Num Iters.
+
 Factor.
+
 Look Back.
+
 Patience.
-# Folders
+
+# DATA Sources
+Data sources:
+Nasdaq 100-values 
+Fed total assets 
+![image](https://user-images.githubusercontent.com/66019798/123539285-981fd080-d741-11eb-9e72-a564b05ba668.png)
 
 # Reference
