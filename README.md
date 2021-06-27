@@ -1,10 +1,13 @@
-# GRU-LSTM-FED
-Python implementation NASDAQ-100 price prediction using FED's assets.
+# GRU-LSTM-FED - Description
+Python implementation for NASDAQ-100 price prediction using FED's assets.
 ![image](https://user-images.githubusercontent.com/66019798/123539089-ac170280-d740-11eb-8720-c61655529faa.png)
 
-Based on the work "Predicting Stock Price using LSTM model, PyTorch" by Taron Zakaryan, Paris, Île-de-France, France
+# Reference
+Based on the work "Predicting Stock Price using LSTM model, PyTorch" by Taron Zakaryan, Paris, Île-de-France, France.
+
 Project site can be found here: https://www.kaggle.com/taronzakaryan/predicting-stock-price-using-lstm-model-pytorch
 
+# Agenda
 The Federal Reserve System (also known as the Federal Reserve or simply the Fed) is the central banking system of the United States of America.
 
 Since the corona-virus pandemic broke, the United States Federal Reserve 
@@ -15,34 +18,36 @@ each other and examine the influence of the FED's assets on the results.
 
 We can divide the workflow into few main steps:
 
-Loading the data.
+Loading the data
 
-Spliting the data.
+Spliting the data
 
-Building the LSTM and GRU models.
+Building the LSTM and GRU models
 
-Using OPTUNA for tuning of hyper parameters.
+Using OPTUNA for tuning of hyper parameters
 
-Compering the results with themselves and with the naive prediction (average weekly gain).
+Compering the results with themselves and with the naive prediction (average weekly gain)
 
-Presenting the results.
+Presenting the results
+# Training methods
+For our project's models we chose Adam (Adaptive Moment) as our optimizer, stepLRonPlateu as our scheduler and MSE as our loss function.
 
 # Parameters
-Batch Size.
+Batch Size
 
-Hidden Dim.
+Hidden Dim
 
-N layers.
+N layers
 
-Learning Rate.
+Learning Rate
 
-Num Iters.
+Num Iters
 
-Factor.
+Factor
 
-Look Back.
+Look Back
 
-Patience.
+Patience
 
 # DATA Sources
 Nasdaq 100-values:
@@ -51,4 +56,3 @@ https://finance.yahoo.com/quote/%5ENDX/history?period1=958608000&period2=1621296
 Fed total assets:
 https://fred.stlouisfed.org/series/WALCL
 
-# Reference
