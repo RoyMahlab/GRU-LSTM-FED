@@ -23,14 +23,14 @@ Compering the results with themselves and with the naive prediction (average wee
 Presenting the results.
 
 # Parameters
-Batch Size: alt text
-Hidden Dim
-N layers
-Learning Rate
-Num Iters
-Factor
-Look Back
-Patience 
+Batch Size.
+Hidden Dim.
+N layers.
+Learning Rate.
+Num Iters.
+Factor.
+Look Back.
+Patience.
 # Folders
 
 # Reference
