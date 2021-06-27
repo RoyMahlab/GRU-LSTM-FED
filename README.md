@@ -1,5 +1,7 @@
 # GRU-LSTM-FED
-Python implementation NASDAQ-100 price prediction using FED's assets 
+Python implementation NASDAQ-100 price prediction using FED's assets.
+![image](https://user-images.githubusercontent.com/66019798/123539089-ac170280-d740-11eb-8720-c61655529faa.png)
+
 Based on the work "Predicting Stock Price using LSTM model, PyTorch" by Taron Zakaryan, Paris, Île-de-France, France
 Project site can be found here: https://www.kaggle.com/taronzakaryan/predicting-stock-price-using-lstm-model-pytorch
 
