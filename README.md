@@ -26,7 +26,7 @@ Building the LSTM and GRU models
 
 Using OPTUNA for tuning of hyper parameters
 
-Compering the results with themselves and with the naive prediction (average weekly gain)
+Compering the results and the naive prediction (average weekly gain)
 
 Presenting the results
 # Training methods
